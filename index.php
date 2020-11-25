@@ -25,6 +25,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="index.php">registro</a>
             </li>
+          <li class="nav-item">
+            <a class="nav-link" href="listado.php">listado</a>
+          </li>
         </ul>
     </div>
     </nav>

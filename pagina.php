@@ -27,6 +27,12 @@
           <li class="nav-item">
             <a class="nav-link" href="index.php">registro</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="formularioRegistro.php">registro</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="listado.php">listado</a>
+          </li>
           
       </ul>
       <form class="form-inline my-2 my-lg-0">
